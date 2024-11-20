@@ -1,7 +1,6 @@
 /*
 Integer to English
-Eliandro Pizzonia 251363956
-CS 2211
+Eliandro Pizzonia 
 
 this program converts any integer from 1-999 into the english word (in lower case)
 */
